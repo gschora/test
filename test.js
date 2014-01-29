@@ -21,3 +21,5 @@ var releasetest2 = true;
 var devtest1 = 1;
 
 var feature2;
+
+var feature1;
