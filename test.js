@@ -1,5 +1,12 @@
+var condition = false;
+
 if (condition) {
-	expression
+
 } else {
-	second expression
+
+}
+
+var feature = true;
+if (feature) {
+
 }
