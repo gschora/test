@@ -10,3 +10,8 @@ var feature = true;
 if (feature) {
 
 }
+
+var release = true;
+if (release) {
+	
+}
