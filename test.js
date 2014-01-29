@@ -17,3 +17,5 @@ if (release) {
 }
 
 var releasetest2 = true;
+
+var devtest1 = 1;
