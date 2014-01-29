@@ -15,3 +15,5 @@ var release = true;
 if (release) {
 	
 }
+
+var releasetest2 = true;
